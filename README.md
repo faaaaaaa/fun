@@ -1,1 +1,3 @@
-# funj
+# fun
+
+Less fun than you think
